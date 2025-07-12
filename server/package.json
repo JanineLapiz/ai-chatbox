@@ -1,5 +1,6 @@
 {
  "name": "@dummyorg/server",
+ "type": "module",
  "main": "src/index.ts",
  "scripts": {
   "build": "parcel build",
